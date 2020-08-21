@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-21T10:41:28.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="0eQpv5M7w9NZuSVbZDdt" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-21T10:45:23.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="CD3ssqGJWoOTb7XTybq3" version="13.6.4" type="github">
   <diagram name="Page-1" id="bd83a815-5ea8-2e97-e5ec-87c9f400f2fa">
     <mxGraphModel dx="1035" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -335,9 +335,6 @@
         </object>
         <mxCell id="1516e18e63f93b96-37" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=3;fillColor=#000000;fontSize=14;direction=north;" parent="1" vertex="1">
           <mxGeometry x="1138" y="775" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1516e18e63f93b96-50" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=3;fillColor=#000000;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="1138" y="655" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kIJgZ0-0CaOkRdr19EaL-2" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=3;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="405" y="100" width="30" height="30" as="geometry" />
@@ -784,6 +781,9 @@
         </mxCell>
         <mxCell id="JeDC5EY4vffyy5zIFi5M-206" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;gradientColor=#ffffff;align=left;" vertex="1" parent="1">
           <mxGeometry x="189.99999999999997" y="1419" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JeDC5EY4vffyy5zIFi5M-207" value="Publish Config" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="851" y="1152" width="110" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
